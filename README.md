@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Jayaram-49/Jayaram-49/main/github-profile-pic.jpg" width="150" height="150" style="border-radius:50%;" />
+
 # Hi, I'm Jayaram 👋
 
 ### Software Engineer | Backend-Leaning Full-Stack Builder | ML-Curious
