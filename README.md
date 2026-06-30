@@ -1,6 +1,6 @@
 <div align="center">
 
-//<img src="github-profile-pic.jpg" width="150" height="150" style="border-radius:50%;" />
+/**<img src="github-profile-pic.jpg" width="150" height="150" style="border-radius:50%;" />**/
 
 # Hi, I'm Jayaram 👋
 
